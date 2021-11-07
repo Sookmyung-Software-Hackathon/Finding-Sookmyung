@@ -11,7 +11,7 @@
 
 ### 🔹산출물 주소
 
-(예시) https://github.com/Sookmyung-Software-Hackathon/your_repository_url
+https://github.com/Sookmyung-Software-Hackathon/Finding-Sookmyung
 
 ### 🔹분야
 
